@@ -1,0 +1,7 @@
+.header p{
+    margin: 5px;
+}
+.icons li{
+display: flex;
+width: 100%;
+}
